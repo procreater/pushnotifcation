@@ -17,7 +17,5 @@ namespace CordovaSPA.Dal
 
         public DateTime RegistryDate { get; set; }
 
-        public string UserId { get; set; }
-
     }
 }
