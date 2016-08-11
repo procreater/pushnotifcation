@@ -24,7 +24,7 @@ namespace CordovaSPA.Dal
               "\"soundname\":\"default\"," +
                "}}";
 
-                string response = PushMessage.SendGCMNotification("AIzaSyArAadlChHwGulLxGHyTB_WGa0OUB2yvN4", postData);
+                string response = PushMessage.SendGCMNotification("AIzaSyBPbzPEbOvCqAspY442P9TMNgoojPuCIJI", postData);
             }
         }
     }
