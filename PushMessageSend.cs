@@ -24,7 +24,7 @@ namespace CordovaSPA.Dal
               "\"soundname\":\"default\"," +
                "}}";
 
-                string response = PushMessage.SendGCMNotification("AIzaSyBPbzPEbOvCqAspY442P9TMNgoojPuCIJI", postData);
+                string response = PushMessage.SendGCMNotification("tokenın", postData);
             }
         }
     }
